@@ -218,7 +218,7 @@ header .logo  {
     justify-content: center;
     align-items: center;
     color: var(--main-color);
-    font-size: 30px;
+    font-size: 35px;
     font-weight: bold;
     border: none;
 }
@@ -408,13 +408,13 @@ header .container .nav-bar > li:hover .mega-menu {
 }
 
 .landing .text h1 {
-    font-size: 40px;
+    font-size: 34px;
     letter-spacing: -2px;
     margin: 0;
 }
 
 .landing .text p {
-    font-size: 24px;
+    font-size: 22px;
     line-height: 1.8;
     color: #666;
     margin: 5px 0 0;
